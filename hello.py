@@ -1,2 +1,2 @@
-a="hello"
-print"a"
+a=("hello")
+print("a")
